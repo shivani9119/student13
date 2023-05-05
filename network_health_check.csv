@@ -1,0 +1,15 @@
+Device,Connectivity,Interface Status,Network Performance,Issues
+172.16.24.135,Success,"Interface                  IP-Address      OK? Method Status                Protocol
+FastEthernet0/0            172.16.24.135   YES DHCP   up                    up      ","
+Type escape sequence to abort.
+Sending 100, 100-byte ICMP Echos to 172.16.24.135, timeout is 2 seconds:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Success rate is 100 percent (100/100), round-trip min/avg/max = 1/1/4 ms",
+172.16.24.154,Success,"Interface                  IP-Address      OK? Method Status                Protocol
+FastEthernet0/0            172.16.24.154   YES DHCP   up                    up      ","
+Type escape sequence to abort.
+Sending 100, 100-byte ICMP Echos to 172.16.24.135, timeout is 2 seconds:
+.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Success rate is 99 percent (99/100), round-trip min/avg/max = 8/15/20 ms",

@@ -1,0 +1,5 @@
+2023-04-19 14:42:26,861 INFO Adding 10 and 0
+2023-04-19 14:42:26,862 INFO Subtracting 10 and 0
+2023-04-19 14:42:26,863 INFO Dividing 10 and 0
+2023-04-19 14:42:26,863 ERROR Error occurres: division by zero
+2023-04-19 14:42:26,863 DEBUG c=10, d=10, e=None

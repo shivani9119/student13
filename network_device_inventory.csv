@@ -1,0 +1,32 @@
+Hostname,IP Address,Interfaces,VLANs
+marker.,sandbox-iosxe-recomm-1.cisco.com,"Interface              IP-Address      OK? Method Status                Protocol
+GigabitEthernet1       10.10.20.48     YES NVRAM  up                    up      
+GigabitEthernet2       unassigned      YES DHCP   up                    up      
+GigabitEthernet3       unassigned      YES NVRAM  administratively down down    
+Loopback20             192.168.20.1    YES other  up                    up      
+Loopback100            100.100.100.100 YES other  up                    up      ","                    ^
+% Invalid input detected at '^' marker.
+"
+"'$(hostname)',",sandbox-iosxr-1.cisco.com,"
+Thu May  4 07:39:34.009 UTC
+
+Interface                      IP-Address      Status          Protocol Vrf-Name
+Bundle-Ether65534              unassigned      Down            Down     default 
+Bundle-Ether65535              unassigned      Down            Down     default 
+Bundle-Ether65535.1000         unassigned      Down            Down     default 
+Loopback0                      192.168.1.1     Up              Up       default 
+Loopback1                      unassigned      Up              Up       default 
+Loopback19                     unassigned      Up              Up       default 
+Loopback100                    1.1.1.100       Up              Up       default 
+Loopback111                    unassigned      Up              Up       default 
+Loopback555                    unassigned      Up              Up       default 
+MgmtEth0/RP0/CPU0/0            10.10.20.175    Up              Up       default 
+GigabitEthernet0/0/0/0         unassigned      Down            Down     default 
+GigabitEthernet0/0/0/1         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/2         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/3         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/4         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/5         unassigned      Shutdown        Down     default 
+GigabitEthernet0/0/0/6         unassigned      Shutdown        Down     default ","
+                           ^
+% Invalid input detected at '^' marker."
